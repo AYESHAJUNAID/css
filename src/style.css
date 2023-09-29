@@ -1,0 +1,36 @@
+.head {
+  width: 1350px;
+  height: 100px;
+  text-align: center;
+  background-color: #346357;
+  margin: 0px;
+  color: white;
+  padding: 10px;
+}
+.table1 {
+  width: 1350px;
+  height: 40px;
+  text-align: center;
+  background-color: #1dad9b;
+  margin: 0px;
+  color: white;
+}
+.table2 {
+  width: 800px;
+  height: 100px;
+  text-align: center;
+  background-color: #346357;
+  color: white;
+  font-style: italic;
+}
+.head2 {
+  text-align: center;
+  background-color: #9bf4d5;
+  padding: 10px;
+}
+a {
+  color: white;
+}
+.top a {
+  color: black;
+}
